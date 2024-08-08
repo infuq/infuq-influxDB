@@ -1,0 +1,16 @@
+spring:
+  application:
+    name: infuq-influxDB
+  redis:
+    host: 192.168.31.129
+    port: 6379
+    database: 2
+    password: 9527
+server:
+  port: 56075
+
+influx:
+  url: http
+  token: token
+  org: org
+  bucket: bucket
