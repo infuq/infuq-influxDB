@@ -10,7 +10,7 @@ server:
   port: 56075
 
 influx:
-  url: http
-  token: token
-  org: org
-  bucket: bucket
+  url: http://192.168.10.25:8086
+  token: 5Ze86MoaB1Xe38UGpJCYn_XrZ1vMjSFIlhDa--SPOWvtL9qT6V4cLOpHjEDYFAtg1kVozUkwNvfkQtalRjdLIw==
+  org: foo
+  bucket: user_data
