@@ -37,6 +37,8 @@ build/
 ### Mac OS ###
 .DS_Store
 
+logs
+
 
 src/main/resources/application-prod.yaml
 src/main/resources/application-work.yaml
